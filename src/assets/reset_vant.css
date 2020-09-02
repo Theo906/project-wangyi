@@ -1,0 +1,129 @@
+/* 重置vant样式 */
+.tabBtnWrap .van-tab{
+    font-size: .373rem;
+    line-height: .373rem;
+    margin-bottom: .3rem;
+}
+span.van-tab__text{
+    height: .3rem;
+}
+
+.van-tabs__wrap--scrollable .van-tab {
+    padding: 0 .3rem;
+}
+
+.goodsColumnWrap .van-icon__image{
+    width: 1.46667rem;
+    height: 1.46667rem;
+}
+
+.goodsColumnWrap .van-grid-item__text{
+    margin-top: .13333rem;
+    text-align: center;
+    font-size: .32rem;
+    line-height: .48rem;
+    white-space: nowrap;
+}
+
+.goodsList_wrap .van-grid-item__text{
+    font-size: .37333rem;
+  }
+
+.goodsList_wrap .van-icon{
+    width: 2.88rem;
+    height: 2.88rem;
+    background: #f5f5f5;
+    border-radius: 4px;
+    margin-bottom: .16rem;
+}
+
+.goodsList_wrap .van-icon__image{
+    width: 2.88rem;
+    height: 2.88rem;
+}
+
+/* footer */
+.footer_div .van-tabbar-item{
+    font-size: .32rem;
+}
+
+.footer_div .van-tabbar{
+    height: 1.30667rem;
+}
+
+.footer_div .van-icon{
+    font-size: .5rem;
+}
+
+/* 分类页侧边栏 */
+.sidebarClass .van-sidebar{
+    width: 2.16rem;
+}
+.sidebarClass .van-sidebar-item__text{
+    display: block;
+    color: #333;
+    font-size: .37333rem;
+    line-height: .66667rem;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+/* 商品购买页 */
+.goodsActionClass .van-goods-action-button,
+.goodsActionClass .van-goods-action-icon__icon,
+.goodsActionClass .van-goods-action-icon {
+    font-size: .37333rem;
+}
+
+.goodsActionClass .van-goods-action-button{
+    height: 1.38667rem;
+}
+
+/* 返回导航 */
+.navBarClass .van-nav-bar{
+    height: 1.17333rem;
+}
+
+.navBarClass .van-nav-bar__title{
+    font-size: .5rem;
+    font-weight: bold;
+}
+
+/* sku */
+.skuClass .van-sku__stock,
+.skuClass .van-sku-header-item,
+.skuClass .van-sku-row__title,
+.skuClass .van-sku-row__item,
+.skuClass .van-sku__stepper-title,.skuClass .van-stepper__input,
+.skuClass .van-cell,
+.skuClass .van-sku__price-num{
+    font-size: .37333rem;
+}
+
+.skuClass .van-stepper__minus,
+.skuClass .van-stepper__input,
+.skuClass .van-stepper__plus{
+    width: .8rem;
+    height: .8rem;
+}
+
+.skuClass .van-sku-actions .van-button{
+    height: 1.28rem;
+    font-size: .37333rem;
+}
+/* sku 请先选择商品规格 */
+.van-toast__text{
+    font-size: .5rem;
+}
+
+/* 登录 */
+.btnWrap .van-button--normal {
+    font-size: .37333rem;
+    height: 1.3rem;
+}
+
+.btnWrap .van-icon__image{
+    color: #E32901;
+    width: .5333rem;
+    height: .5333rem;
+}
